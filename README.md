@@ -1,7 +1,5 @@
 
-# Olá!👋
-
-## Sou a **Núria Mendonça** !
+## Olá!👋 Sou a **Núria Mendonça** !
 
 ### Sobre Mim 🖊️ ♏
 
@@ -17,7 +15,7 @@ Estou no momento em transição de carreira, saindo da área administrativa/fina
 
 ## Habilidades | Hard Skills
 
-🎓 **Formações**
+🎓 **Formações Acadêmicas**
 
 💠Administração
 
@@ -41,11 +39,11 @@ Estou no momento em transição de carreira, saindo da área administrativa/fina
 
   Soft Skills|                                   |
 | --------------: | ------------------------------------------ |
-|       Pessoal | Trabalho em Equipe, Escuta ativa, Empatia,  Flexibilidade, Adaptabilidade, Pensamento Crítico                    |
-|        Governança | Compliance Legislativo, LGPD |
-|      Finanças | Orçamento, Planejamento Financeiro, Forecast, Conciliação Contábil, Escrita de Notas Explicativas                  |
-| Auditoria | Escrita de Políticas, Criação de Manuais, Treinamento                |
-|     Projetos | Escrita de Projetos, Mapeamento de Processos, Desenvolvimento de Processos                                |
+|       Pessoal   | Trabalho em Equipe, Escuta ativa, Empatia,  Flexibilidade, Adaptabilidade, Pensamento Crítico      |
+|      Governança | Compliance Legislativo, LGPD                                                         |
+|      Finanças   | Orçamento, Planejamento Financeiro, Forecast, Conciliação Contábil, Escrita de Notas Explicativas     |
+|      Auditoria  | Escrita de Políticas, Criação de Manuais, Treinamento                                |
+|      Projetos   | Escrita de Projetos, Mapeamento de Processos, Desenvolvimento de Processos           |
 
 
 
