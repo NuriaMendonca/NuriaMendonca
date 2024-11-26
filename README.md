@@ -5,8 +5,6 @@
 
 Sou formada em Administração, com especialização em Planejamento e Gerenciamento Estratégico.
 
-Atualmente moro na linda cidade de Blumenau - SC 🍻.
-
 
 Estou no momento em transição de carreira, saindo da área administrativa/financeira, para a área de tecnologia buscando sobretudo a liberdade geográfica 🌎 que essa área pode promover.
 
