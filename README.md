@@ -6,7 +6,7 @@
 Sou formada em Administração, com especialização em Planejamento e Gerenciamento Estratégico.
 
 
-Estou no momento em transição de carreira, saindo da área administrativa/financeira, para a área de tecnologia buscando sobretudo a liberdade geográfica 🌎 que essa área pode promover.
+Estou no momento em transição de carreira, saindo da área administrativa/financeira, para a área de tecnologia buscando o máximo aproveitamento das minhas habilidades para essa nova jornada.
 
 ***
 
