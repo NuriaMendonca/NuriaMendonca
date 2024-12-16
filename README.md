@@ -20,6 +20,8 @@ Estou no momento em transição de carreira, saindo da área administrativa/fina
 
 💠Especialização em Planejamento e Gerenciamento Estratégico
 
+💠 Análise e Desenvolvimento de Sistemas
+
 
 
 |Habilidades em desenvolvimento |
