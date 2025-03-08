@@ -3,10 +3,10 @@
 
 ### Sobre Mim 🖊️ ♏
 
-Sou formada em Administração, com especialização em Planejamento e Gerenciamento Estratégico.
+Sou formada em Administração, com especialização em Planejamento e Gerenciamento Estratégico e Green Belt.
 
 
-Estou no momento em transição de carreira, saindo da área administrativa/financeira, para a área de tecnologia buscando o máximo aproveitamento das minhas habilidades para essa nova jornada.
+Estou em transição de carreira, saindo da área administrativa/financeira, para a área de tecnologia buscando o máximo aproveitamento das minhas habilidades para essa nova jornada.
 
 ***
 
@@ -20,17 +20,14 @@ Estou no momento em transição de carreira, saindo da área administrativa/fina
 
 💠Especialização em Planejamento e Gerenciamento Estratégico
 
-💠 Análise e Desenvolvimento de Sistemas
+💠 Análise e Desenvolvimento de Sistemas | cursando
 
 
 
-|Habilidades em desenvolvimento |
-|--------------------|
-| ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | 
-|![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|
-|<img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> |
-|<img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>|
-|<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>|
+## Habilidades em desenvolvimento
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,github,linux,py)](https://skillicons.dev)
+
 
 
 ## Soft Skills
