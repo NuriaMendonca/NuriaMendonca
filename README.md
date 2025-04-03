@@ -14,19 +14,17 @@ Estou em transição de carreira, saindo da área administrativa/financeira, par
 
 🎓 **Formações Acadêmicas**
 
+💠 Análise e Desenvolvimento de Sistemas | cursando
 💠Administração
-
 💠Green Belt Lean Six Sigma
-
 💠Especialização em Planejamento e Gerenciamento Estratégico
 
-💠 Análise e Desenvolvimento de Sistemas | cursando
 
 
 
 ## Habilidades em desenvolvimento
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,github,linux,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,github,linux,py,sql)](https://skillicons.dev)
 
 
 
