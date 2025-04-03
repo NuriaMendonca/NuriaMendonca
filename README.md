@@ -15,8 +15,11 @@ Estou em transição de carreira, saindo da área administrativa/financeira, par
 🎓 **Formações Acadêmicas**
 
 💠 Análise e Desenvolvimento de Sistemas | cursando
+
 💠Administração
+
 💠Green Belt Lean Six Sigma
+
 💠Especialização em Planejamento e Gerenciamento Estratégico
 
 
