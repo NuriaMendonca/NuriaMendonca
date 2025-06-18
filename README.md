@@ -1,12 +1,10 @@
 
 ## Olá!👋 Sou a **Núria Mendonça** !
 
-### Sobre Mim 🖊️ ♏
+###  🖊️ ♏
 
-Sou formada em Administração, com especialização em Planejamento e Gerenciamento Estratégico e Green Belt.
-
-
-Estou em transição de carreira, saindo da área administrativa/financeira, para a área de tecnologia buscando o máximo aproveitamento das minhas habilidades para essa nova jornada.
+Sou Analista de Dados com foco em Business Intelligence, buscando transição para o setor de tecnologia.
+Com sólida experiência em análise de dados financeiros e operacionais, desenvolvimento de KPIs em Power BI e otimização de processos. Atualmente cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, com proficiência em transformar dados complexos em insights acionáveis para otimização de resultados e apoio à tomada de decisões estratégicas. Experiência em análise de bases de dados, projeção de dados quantitativos e financeiros, e implementação de políticas internas.
 
 ***
 
